@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanjeet190
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @__sanj16__ Instagram.  @Sanjeet Prabhat LinkedIn
